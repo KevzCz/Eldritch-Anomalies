@@ -8,8 +8,8 @@
 		"KevzCz"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/eldritch-anomalies",
+		"sources": "https://github.com/KevzCz/Eldritch-Anomalies"
 	},
 	"license": "GNU GPLv3",
 	"icon": "assets/eldritch-anomalies/icon.png",

@@ -1,0 +1,35 @@
+{
+	"schemaVersion": 1,
+	"id": "eldritch-anomalies",
+	"version": "${version}",
+	"name": "Eldritch Anomalies",
+	"description": "Add support for Eldritch mobs for modded mobs and also add more custom abilities!",
+	"authors": [
+		"KevzCz"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "GNU GPLv3",
+	"icon": "assets/eldritch-anomalies/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.pixeldreamstudios.eldritch_anomalies.EldritchAnomalies"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*",
+		"eldritch_mobs": "*",
+		"mobs_of_mythology": "*",
+		"guardvillagers": "*",
+		"eternal_starlight": "*",
+		"illagerinvasion": "*",
+		"adventurez": "*",
+		"knightquest": "*"
+	}
+}

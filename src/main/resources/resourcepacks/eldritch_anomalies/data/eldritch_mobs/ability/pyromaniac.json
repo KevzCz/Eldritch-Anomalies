@@ -1,0 +1,8 @@
+{
+  "name": "Pyromaniac",
+  "type": "ACTIVE",
+  "subtype": "OFFENSIVE",
+  "activationType": "hasTarget",
+  "cooldown": 1000,
+  "command": "execute as {self} at {target} run function kevs:pyromaniac"
+}

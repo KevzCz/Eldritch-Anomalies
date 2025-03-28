@@ -1,0 +1,8 @@
+{
+  "name": "Crusher",
+  "type": "ACTIVE",
+  "subtype": "OFFENSIVE",
+  "activationType": "hasTarget",
+  "cooldown": 400,
+  "command": "execute as {self} at {target} run function kevs:crusher"
+}

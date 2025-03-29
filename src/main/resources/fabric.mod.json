@@ -25,6 +25,8 @@
 		"java": ">=21",
 		"fabric-api": "*",
 		"eldritch_mobs": "*",
+		"additionalentityattributes": "*",
+		"tipsylib": "*",
 		"mobs_of_mythology": "*",
 		"guardvillagers": "*",
 		"eternal_starlight": "*",

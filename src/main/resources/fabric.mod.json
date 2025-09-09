@@ -26,12 +26,12 @@
 		"fabric-api": "*",
 		"eldritch_mobs": "*",
 		"additionalentityattributes": "*",
-		"runiclib": "*",
 		"mobs_of_mythology": "*",
 		"guardvillagers": "*",
 		"eternal_starlight": "*",
 		"illagerinvasion": "*",
 		"adventurez": "*",
-		"knightquest": "*"
+		"knightquest": "*",
+		"soulsweapons": "*"
 	}
 }

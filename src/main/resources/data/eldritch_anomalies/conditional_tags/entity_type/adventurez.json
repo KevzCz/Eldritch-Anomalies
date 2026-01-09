@@ -1,0 +1,18 @@
+{
+  "mod_id":"adventurez",
+  "values":[
+    "adventurez:shaman",
+    "adventurez:enderwarthog",
+    "adventurez:nightmare",
+    "adventurez:dragon",
+    "adventurez:piglin_beast",
+    "adventurez:soul_reaper",
+    "adventurez:necromancer",
+    "adventurez:skeleton_vanguard",
+    "adventurez:summoner",
+    "adventurez:blaze_guardian",
+    "adventurez:orc",
+    "adventurez:amethyst_golem",
+    "adventurez:desert_rhino"
+  ]
+}

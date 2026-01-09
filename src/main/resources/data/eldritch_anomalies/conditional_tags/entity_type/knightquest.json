@@ -1,0 +1,12 @@
+{
+  "mod_id": "knightquest",
+  "values": [
+    "knightquest:gremlin",
+    "knightquest:eldknight",
+    "knightquest:eldbomb",
+    "knightquest:swampman",
+    "knightquest:fallen_knight",
+    "knightquest:ratman",
+    "knightquest:netherman"
+  ]
+}

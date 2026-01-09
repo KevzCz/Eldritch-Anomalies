@@ -1,0 +1,18 @@
+{
+  "mod-id":"rpg-minibosses",
+  "values": [
+    "rpg-minibosses:juggernaut",
+    "rpg-minibosses:mercenary",
+    "rpg-minibosses:trickster",
+    "rpg-minibosses:archmage_fire",
+    "rpg-minibosses:templar",
+    "rpg-minibosses:magus",
+    "rpg-minibosses:minor_mercenary",
+    "rpg-minibosses:minor_trickster",
+    "rpg-minibosses:minor_templar",
+    "rpg-minibosses:minor_juggernaut",
+    "rpg-minibosses:minor_archmage_fire",
+    "rpg-minibosses:gemini_alpha",
+    "rpg-minibosses:gemini_beta"
+  ]
+}

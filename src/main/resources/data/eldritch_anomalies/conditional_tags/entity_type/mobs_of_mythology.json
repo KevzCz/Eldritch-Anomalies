@@ -1,0 +1,11 @@
+{
+  "mod_id":"mobs_of_mythology",
+  "values": [
+    "mobs_of_mythology:basilisk",
+    "mobs_of_mythology:pegasus",
+    "mobs_of_mythology:automaton",
+    "mobs_of_mythology:drake",
+    "mobs_of_mythology:chupacabra",
+    "mobs_of_mythology:kobold_warrior"
+  ]
+}

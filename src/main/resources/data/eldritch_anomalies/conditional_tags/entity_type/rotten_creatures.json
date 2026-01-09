@@ -1,0 +1,18 @@
+{
+  "mod_id":"rottencreatures",
+  "values":[
+    "rottencreatures:burned",
+    "rottencreatures:dead_beard",
+    "rottencreatures:frostbitten",
+    "rottencreatures:glacial_hunter",
+    "rottencreatures:hunter_wolf",
+    "rottencreatures:immortal",
+    "rottencreatures:mummy",
+    "rottencreatures:scarab",
+    "rottencreatures:skeleton_lackey",
+    "rottencreatures:swampy",
+    "rottencreatures:undead_miner",
+    "rottencreatures:zap",
+    "rottencreatures:zombie_lackey"
+  ]
+}

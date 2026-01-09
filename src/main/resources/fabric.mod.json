@@ -19,19 +19,13 @@
 			"net.pixeldreamstudios.eldritch_anomalies.EldritchAnomalies"
 		]
 	},
+	"mixins": [
+		"eldritch-anomalies.mixins.json"
+	],
 	"depends": {
 		"fabricloader": ">=0.16.10",
 		"minecraft": "~1.21.1",
 		"java": ">=21",
-		"fabric-api": "*",
-		"eldritch_mobs": "*",
-		"additionalentityattributes": "*",
-		"mobs_of_mythology": "*",
-		"guardvillagers": "*",
-		"eternal_starlight": "*",
-		"illagerinvasion": "*",
-		"adventurez": "*",
-		"knightquest": "*",
-		"soulsweapons": "*"
+		"fabric-api": "*"
 	}
 }

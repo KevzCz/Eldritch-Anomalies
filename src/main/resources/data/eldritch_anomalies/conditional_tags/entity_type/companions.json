@@ -1,0 +1,30 @@
+{
+  "mod_id":"companions",
+  "values":[
+    "companions:teddy",
+    "companions:antlion",
+    "companions:dinamo",
+    "companions:broken_dinamo",
+    "companions:minion",
+    "companions:golden_allay",
+    "companions:soul_mage",
+    "companions:living_candle",
+    "companions:croissant_dragon",
+    "companions:puppet_glove",
+    "companions:puppet",
+    "companions:shade_sword",
+    "companions:shade_maw",
+    "companions:mankh",
+    "companions:cloak",
+    "companions:firework_toad",
+    "companions:bubble_frog",
+    "companions:ember_pole",
+    "companions:nether_bullfrog",
+    "companions:ender_frog",
+    "companions:illager_golem",
+    "companions:hostile_puppet_glove",
+    "companions:sacred_pontiff",
+    "companions:wild_antlion",
+    "companions:hostile_imp"
+  ]
+}

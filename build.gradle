@@ -11,7 +11,8 @@ base {
 }
 
 repositories {
-	maven {url "https://cursemaven.com" }
+	maven { url "https://cursemaven.com" }
+	maven { url "https://maven.terraformersmc.com/releases" }
 }
 
 dependencies {
@@ -26,6 +27,7 @@ dependencies {
 	modImplementation "curse.maven:cloth-config-348521:5729125"
 	modCompileOnly "curse.maven:spell-engine-807653:7396348"
 	modCompileOnly "curse.maven:spell-power-771265:7303956"
+	modCompileOnly "com.terraformersmc:modmenu:11.0.3"
 }
 
 processResources {

@@ -51,7 +51,6 @@ public class EntityRelationsMixin {
         if (focusMode == SpellTarget.FocusMode.AREA) {
             if (mob.getTarget() != target && mob.getLastHurtByMob() != target) {
                 cir.setReturnValue(false);
-                return;
             }
         }
     }

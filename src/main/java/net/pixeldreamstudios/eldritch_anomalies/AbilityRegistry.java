@@ -33,6 +33,66 @@ public class AbilityRegistry {
             AbilityHelper.addAbility(new MeteorAbility());
         }
 
+        if (!config.miasmaConfig.disabled) {
+            AbilityHelper.addAbility(new MiasmaAbility());
+        }
+
+        if (!config.collapseConfig.disabled) {
+            AbilityHelper.addAbility(new CollapseAbility());
+        }
+
+        if (!config.fractureConfig.disabled) {
+            AbilityHelper.addAbility(new FractureAbility());
+        }
+
+        if (!config.eclipseConfig.disabled) {
+            AbilityHelper.addAbility(new EclipseAbility());
+        }
+
+        if (!config.poltergeistConfig.disabled) {
+            AbilityHelper.addAbility(new PoltergeistAbility());
+        }
+
+        if (!config.corrosiveConfig.disabled) {
+            AbilityHelper.addAbility(new CorrosiveAbility());
+        }
+
+        if (!config.phantomStrikeConfig.disabled) {
+            AbilityHelper.addAbility(new PhantomStrikeAbility());
+        }
+
+        if (!config.anchorConfig.disabled) {
+            AbilityHelper.addAbility(new AnchorAbility());
+        }
+
+        if (!config.cursedTouchConfig.disabled) {
+            AbilityHelper.addAbility(new CursedTouchAbility());
+        }
+
+        if (!config.temporalSurgeConfig.disabled) {
+            AbilityHelper.addAbility(new TemporalSurgeAbility());
+        }
+
+        if (!config.stampedeConfig.disabled) {
+            AbilityHelper.addAbility(new StampedeAbility());
+        }
+
+        if (!config.bulwarkConfig.disabled) {
+            AbilityHelper.addAbility(new BulwarkAbility());
+        }
+
+        if (!config.sporeCloudConfig.disabled) {
+            AbilityHelper.addAbility(new SporeCloudAbility());
+        }
+
+        if (!config.maliceConfig.disabled) {
+            AbilityHelper.addAbility(new MaliceAbility());
+        }
+
+        if (!config.voidFuryConfig.disabled) {
+            AbilityHelper.addAbility(new VoidFuryAbility());
+        }
+
         AbilityHelper.removeDisabledAbilities();
     }
 }
